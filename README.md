@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Altaf Shaikh, Grad Student @Northeastern University pursuing Computer Software Engineering.
-- 👀 I’m interested in SWE internship/Co-op roles
+- 👀 I’m interested in SWE Full Time Roles
 - 🌱 I’m currently learning Web Design, Algorithms and Cloud Technologies
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/altaf1810/
